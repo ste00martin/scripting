@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "flat": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.10",
+    "papaparse": "^4.6.0"
+  },
+  "scripts": {
+    "cognito": "node get-cognito-users"
+  }
+}
